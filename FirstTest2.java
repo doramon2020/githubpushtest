@@ -9,6 +9,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class FirstTest {
+	private String str;
 	private First test;
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
