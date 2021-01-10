@@ -10,6 +10,7 @@ import org.junit.Test;
 
 public class FirstTest {
 	private String str;
+	private int haha;
 	private First test;
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
